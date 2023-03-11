@@ -2,6 +2,4 @@
 ###### the home of entertainment
 
 
-## Entertainment Central is a small website on the big web made for the purpose of bringing you entertainment 24/7 without your school ruining your fun!
-
-
+## Entertainment Central is here to bring all those who are board at school Entertainment! With Games and Movies/Shows plus some tools like an about:embedder and a Proxy to top it off, were always looking for more peaple to join the team and end boardom forever! (or until i die)
